@@ -4,7 +4,7 @@ This is the classic "Hello World" program - with a dynamic twist!
 
 I created this to demonstrate the use of Visual Studio Code, GitHub, and Python integrated together.
 
-[Software Demo Video](https://youtu.be/McInUE_sZ5M)
+[Software Demo Video](https://youtu.be/qRvGGHPa52A)
 
 # Development Environment
 
